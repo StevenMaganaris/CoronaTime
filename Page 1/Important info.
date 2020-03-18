@@ -1,0 +1,13 @@
+ <head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <style>
+     body {background-color:white}
+  </style>
+<body>
+  <div class="header">
+    <a href="index.html"><div class="back">Back</div></a></div><br>
+  <div class="textpage1"> 
+    <br>There are many ways that you can reduce the chances of you and you family getting the coronavirus<br>1. STAY HOME PEOPLE. This is one of the most important rules right now to stop the spread of this virus. If you do not need to go out of you house dont.<br><br> 2. Make sure to wash your hands a lot. Each time you go out or touch a door handle, make sure to either sanitize or wash<br><br> 3. Try not to gather with too many people. If you do go out, try not to be in a close area with more then 10 people at a time to reduce the chance of the virus spreading.<br><br> 4. Try not to spread false information that you hear from another friend. Only tell other people information if you have either gotten it comfirmed, or it is by a credible source. Spreading false information just ads to the panic that people are in right now.
+  </div>
+</body>
