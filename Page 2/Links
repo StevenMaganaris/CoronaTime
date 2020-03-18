@@ -1,0 +1,13 @@
+ <head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <style>
+     body {background-color:white}
+  </style>
+<body>
+  <div class="header">
+    <a href="index.html"><div class="back">Back</div></a></div><br>
+  <div class="textpage1"> 
+    <br><br> There are thousands of people across the world who have the coronavirus. If you want to check out a live tracker check the links below.<br><br><br>
+  </div>
+</body>
