@@ -1,0 +1,13 @@
+ <head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <style>
+     body {background-color:white}
+  </style>
+<body>
+  <div class="header">
+    <a href="index.html"><div class="back">Back</div></a></div><br>
+  <div class="textpage1"> 
+    <br> People are freaking out about this virus and here I am to tell you how to stay relaxed and calm during this time.<br>1. Try not to worry too much about the virus. Altough this is a big world wide thing, just try and forget about it.<br>2. Do things that take your mind off of it. Like I discuss in the fouth page, try to do things that make you happy and calm you down.<br>3. Just be happy and have postive thoughts. If you are constatly thinking negitivley, then that will reflect on your attitude as well.
+  </div>
+</body>
