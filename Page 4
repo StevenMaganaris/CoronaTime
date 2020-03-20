@@ -1,0 +1,13 @@
+ <head>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <style>
+     body {background-color:white}
+  </style>
+<body>
+  <div class="header">
+    <a href="index.html"><div class="back">Back</div></a></div><br>
+  <div class="textpage1"> 
+    <br>Here are somethings that I am doing to stay busy during thsi time<br>1. Exerise. In my opion that is the number one thing. It helps you exert all of the energy that you have stored up while at home. Push-ups, running outside, anything inside that burns calories.<br> 2.Do something that you love or like to do. For example, I like to play video games and that is something that I really like to do. <br> 3. Try to have somebody to talk to. Engage in conversations with people in your house to help pass time and to make your brain think.<br> Personally, this virus is not really effecting me becasue i'm not really a person to easily freak out about things so I am usally pretty calm and relaxed during times like this.
+  </div>
+</body>
